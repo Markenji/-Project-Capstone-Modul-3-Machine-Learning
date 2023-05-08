@@ -49,7 +49,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 ![Pandas License](https://img.shields.io/badge/pandas-1.4.2-lightgrey)  
 ![Pandas License](https://img.shields.io/badge/numpy-1.23.2-yellow)  
 ![Pandas License](https://img.shields.io/badge/seaborn-0.11.2-blue)  
-![Pandas License](https://img.shields.io/badge/matplotlib-3.5.1-red)
+![Pandas License](https://img.shields.io/badge/matplotlib-3.5.1-red)<br>
 ![scikit-learn ](https://img.shields.io/badge/scikit--learn-1.2.2-coral?labelColor=grey&style=flat)<br>
 ![imblearn ](https://img.shields.io/badge/imblearn-0.0-olive?labelColor=grey&style=flat)<br>
 ![category-encoders ](https://img.shields.io/badge/category--encoders-2.6.0-emerald?labelColor=grey&style=flat)<br>
