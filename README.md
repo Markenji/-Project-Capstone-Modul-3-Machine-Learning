@@ -43,3 +43,10 @@ Konsekuensi: Perusahaan sia-sia memberikan biaya program loyalitas pada pelangga
 Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah membuat model yang dapat mengurangi pelanggan churn dari perusahaan E-Commerst tersebut, tetapi tanpa membuat kesalahan dalam pemberian program loyalitas di rencanakan perusahaan. Dikarenakan biaya iklan cenderung lebih mahal daripada biaya promosi diskon dalam jangka pendek. Di sisi lain, promosi diskon adalah metode pemasaran yang bisa lebih ekonomis karena hanya melibatkan pengurangan harga produk atau layanan. Jadi kita ingin sebanyak mungkin prediksi kelas positif yang benar, dengan sesedikit mungkin prediksi false positive. Jadi nanti metric utama yang akan kita gunakan adalah roc_auc.
 
 ## Konten Utama
+
+## Konten Utama
+
+![Pandas License](https://img.shields.io/badge/pandas-1.4.2-lightgrey)  
+![Pandas License](https://img.shields.io/badge/numpy-1.23.2-yellow)  
+![Pandas License](https://img.shields.io/badge/seaborn-0.11.2-blue)  
+![Pandas License](https://img.shields.io/badge/matplotlib-3.5.1-red)
