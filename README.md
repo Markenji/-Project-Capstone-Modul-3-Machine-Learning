@@ -44,7 +44,6 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 
 ## Konten Utama
 
-## Konten Utama
 
 #### Library
 ![Pandas License](https://img.shields.io/badge/pandas-1.4.2-lightgrey)  
@@ -56,4 +55,77 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 ![category-encoders ](https://img.shields.io/badge/category--encoders-2.6.0-emerald?labelColor=grey&style=flat)<br>
 ![lightgbm ](https://img.shields.io/badge/lightgbm-3.3.5-pink?labelColor=grey&style=flat)<br>
 ![xgboost](https://img.shields.io/badge/xgboost-1.7.5-navy?labelColor=grey&style=flat)<br>
+
+
+<h4>E-commerce Customer Churn</h4>
+<h4>Konteks</h4>
+<p>Kumpulan data milik perusahaan E-niaga online terkemuka. Perusahaan ritel online (E-commerce) ingin mengetahui pelanggan yang akan melakukan churn, sehingga mereka dapat mendekati pelanggan untuk menawarkan beberapa promo.</p>
+<h5><b>Fitur</b></h5>
+<table>
+  <tr>
+    <th>Attribute</th>
+    <th>Data Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <th><b>Tenure</b></th>
+    <td>Float</td>
+    <td>Masa jabatan pelanggan di perusahaan.</td>
+  </tr>
+  <tr>
+    <th><b>WarehouseToHome</b></th>
+    <td>Float</td>
+    <td>Jarak antara gudang ke rumah pelanggan.</td>
+  </tr>
+  <tr>
+    <th><b>NumberOfDeviceRegistered</b></th>
+    <td>Integer</td>
+    <td>Jumlah total penipuan terdaftar pada pelanggan tertentu.</td>
+  </tr>
+  <tr>
+    <th><b>PreferedOrderCat</b></th>
+    <td>Text</td>
+    <td>Kategori pesanan pilihan pelanggan pada bulan lalu.</td>
+  </tr>
+  <tr>
+    <th><b>SatisfactionScore</b></th>
+    <td>Integer</td>
+    <td>Skor memuaskan pelanggan pada layanan.</td>
+  </tr>
+  <tr>
+    <th><b>MaritalStatus</b></th>
+    <td>Text</td>
+    <td>Status perkawinan pelanggan.</td>
+  </tr>
+  <tr>
+    <th><b>NumberOfAddress</b></th>
+    <td>Integer</td>
+    <td>Jumlah total yang ditambahkan pada pelanggan tertentu.</td>
+  </tr>
+  <tr>
+    <th><b>Complaint</b></th>
+    <td>Integer</td>
+    <td>Setiap keluhan telah diajukan pada bulan lalu.</td>
+  </tr>
+  <tr>
+    <th><b>DaySinceLastOrder</b></th>
+    <td>Float</td>
+    <td>Hari sejak pemesanan terakhir oleh pelanggan.</td>
+  </tr>
+  <tr>
+    <th><b>CashbackAmount</b></th>
+    <td>Float</td>
+    <td>Average cashback in last month.</td>
+  </tr>
+  <tr>
+    <th><b>Churn</b></th>
+    <td>Boolean</td>
+    <td>Bendera churn.</td>
+  </tr>
+</table>
+
+<p>Sumber Data : <a href="https://drive.google.com/drive/folders/1PITb78NtK9Ra6wOkQdXCIgItZkj29Ves">Klik disini</a></p>
+<p>Data Awal Terdiri dari : 3941 baris × 11 kolom</p>
+
+
 
