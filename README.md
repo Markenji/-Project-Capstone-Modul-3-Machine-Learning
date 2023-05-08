@@ -46,6 +46,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 
 ## Konten Utama
 
+#### Library
 ![Pandas License](https://img.shields.io/badge/pandas-1.4.2-lightgrey)  
 ![Pandas License](https://img.shields.io/badge/numpy-1.23.2-yellow)  
 ![Pandas License](https://img.shields.io/badge/seaborn-0.11.2-blue)  
