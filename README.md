@@ -127,5 +127,11 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 <p>Sumber Data : <a href="https://drive.google.com/drive/folders/1PITb78NtK9Ra6wOkQdXCIgItZkj29Ves">Klik disini</a></p>
 <p>Data Awal Terdiri dari : 3941 baris × 11 kolom</p>
 
-
+## Daftar Isi Main Project ipynb
+ - [Data Understanding & Data Cleaning](#)
+ - [Data Analysis](#)
+ - [Feature selection, & Feature Engineering](#)
+ - [Analytics (Algorithm, Evaluation Metrics)](#)
+ - [Conclusion and Recommendation/Improvement](#)
+ - [Pickle](#)
 
