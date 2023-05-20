@@ -132,7 +132,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
  - [Data Analysis](#Data-Analysis)
  - [Feature selection, & Feature Engineering](#Feature-selection,-Feature-Engineering)
  - [Analytics (Algorithm, Evaluation Metrics)](#Analytics-(Algorithm,-Evaluation-Metrics))
- - [Conclusion and Recommendation/Improvement](#Conclusion-and-Recommendation-Improvement)
+ - [Conclusion and Recommendation](#Conclusion-and-Recommendation)
  - [Pickle](#Pickle)
 
 ### Data Understanding & Data Cleaning 
@@ -177,7 +177,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
     - Feature Importances
     - Shapley Value of Explanations (SHAP)
 
-### Conclusion and Recommendation/Improvement
+### Conclusion and Recommendation
 
 #### Recommendation 
 
