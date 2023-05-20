@@ -137,11 +137,45 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 
 ### Data Understanding & Data Cleaning 
 
+#### Data Understanding
+
+##### E-commerce Customer Churn
+
+###### Konteks
+
+- Kumpulan data milik perusahaan E-niaga online terkemuka. Perusahaan ritel online (E-commerce) ingin mengetahui pelanggan yang akan melakukan churn, sehingga mereka dapat mendekati pelanggan untuk menawarkan beberapa promo.
+
+#### Data
+
+#### Data Cleaning
+
+- Ada data yang hilang/kosong dibeberapa fitur/kolom. Oleh sebab itu, kita akan memperbaiki semua datanya dan membuatnya menjadi siap pakai untuk melakukan analisa terhadap masalahnya dan juga pembuatan model machine learningnya.
+    - Duplicated Data 
+    - Statistik Missing Values
+    - Handling Missing Values
+
 ### Data Analysis
 
+- Penilaian Normalitas
+    - Grapical Methods
+- Checking Outlier
+- Imbalance Classification
 ### Feature selection, & Feature Engineering
 
+#### Data Preparation
+    - Mengecek Missing Value pada Data
+    - Handling Missing Value Menggunakan KNNImputer
+    - Data splitting
 ### Analytics (Algorithm, Evaluation Metrics)
+
+#### Modeling & Evaluation
+    - Model Benchmarking : Test Data
+    - Test Oversampling with K-Fold Cross Validation
+    - Evaluation Metrics Without Oversampling
+    - Evaluation Metrics With Oversampling
+    - Hyperparameter Tuning
+    - Feature Importances
+    - Shapley Value of Explanations (SHAP)
 
 ### Conclusion and Recommendation/Improvement
 
