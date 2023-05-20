@@ -179,4 +179,24 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 
 ### Conclusion and Recommendation/Improvement
 
+#### Recommendation 
+
+Hal-hal yang bisa dilakukan untuk mengurangi adanya masalah customer churn antara lain sebagai berikut:
+- Memberikan promo program loyalitas pada pelanggan yang masih baru agar mereka tidak memiliki potensi untuk churn.
+- Pelanggan dengan masa Tenure tertentu diberikan reward untuk yang sudah lama sedangkan yang baru akan diberikan promo khusus.
+- Memperbanyak warehouse khususnya diwilayah yang menjadi tempat pembelian terbanyakan sehingga proses pengataran kepelanggan atau customer lebih cepat.
+- Menentukan casback yang sesuai agar baik customer atau penjual tidak dirugikan.
+- Melakukan pembaruan pada aplikasi mobile dan website e-commerce agar customer merasakan user experience yang berkesan.
+- Menangani Komplain pada customer secara edukatif dan ramah untuk mengurangi potensi customer churn.
+- Pada pelanggan baru akan diberikan hadiah gratis berupa sticker atau tas agar memberikan kesan tersendiri.
+- Diadakanya udian berhadiah atau diberikan kesempatan bagi pelanggan dengan masa Tenur lebih dari 1 tahun untuk mengikuti udian berhadiah seperti lotre.
+
+Hal-hal yang dapat dilakukan untuk mengembangkan model agar lebih baik lagi, seperti:
+- Model ini baik untuk melakukan prediksi. Jika menggunakan parameter yang sudah ada contoh pada Kolom MaritalStatus terdapat 3 pilihan dimana Single, Married, dan Divorced jika parameter ini tidak ada perubahan dan pada kolum lainya belum ada tambahan maka model ini cocok untuk melakukan prediksi dengan bagus.
+- Model tidak akan baik untuk melakukan prediksi. jika pada kolum atau parameter kolum mengalami perubahan atau penambahan sehingga memerluhkan proses permodelan dari awal lagi.
+- Membandingkan model yang ada dimana pada model dilakukan feature engineering untuk menghingkan missing value dan merubah data kategorical dengan model yang lebih simple. Dimana model yang lebih simple itu adalah menggunakan fillna menggunakan modus atau median dan menggunakan pd.get_dummy untuk merubah data kategorical yang ada pada dataset.
+- Menambahkan fitur-fitur atau kolum baru yang memberikan kemungkinan minat customer meningkat, seperti customer adalah customer loyal atau tidak, history jumlah pembelian customer, dan Alamat dari customer.
+- Mencoba mengunakan teknik oversampling yang beragam selain RUS seperti; ROSE (Random Under Sampling Examples), Borderline-SMOTE, SMOTE (Synthetic Minority Over-sampling Technique), dan ADASYN (Adaptive Synthetic Sampling).
+- Mencoba teknik sederhana dalam oversampling seperti class_weight pada algorithma yang support Imbalance Classification.
+
 ### Pickle
