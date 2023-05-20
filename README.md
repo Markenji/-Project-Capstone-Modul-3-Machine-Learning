@@ -128,14 +128,14 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 <p>Data Awal Terdiri dari : 3941 baris × 11 kolom</p>
 
 ## Daftar Isi Main Project ipynb
- - [Data Understanding & Data Cleaning](#Data-Understanding-Data-Cleaning)
+ - [Data Understanding & Data Cleaning](#Data-Understanding-dan-Data-Cleaning)
  - [Data Analysis](#Data-Analysis)
- - [Feature selection, & Feature Engineering](#Feature-selection,-Feature-Engineering)
- - [Analytics (Algorithm, Evaluation Metrics)](#Analytics-(Algorithm,-Evaluation-Metrics))
+ - [Feature selection dan Feature Engineering](#Feature-selection-dan-Feature-Engineering)
+ - [Analytics (Algorithm Evaluation Metrics)](#Analytics-(Algorithm-Evaluation-Metrics))
  - [Conclusion and Recommendation](#Conclusion-and-Recommendation)
  - [Pickle](#Pickle)
 
-### Data Understanding & Data Cleaning 
+### Data Understanding dan Data Cleaning 
 
 #### Data Understanding
 
@@ -160,15 +160,15 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
     - Grapical Methods
 - Checking Outlier
 - Imbalance Classification
-### Feature selection, & Feature Engineering
+### Feature selection dan Feature Engineering
 
 #### Data Preparation
     - Mengecek Missing Value pada Data
     - Handling Missing Value Menggunakan KNNImputer
     - Data splitting
-### Analytics (Algorithm, Evaluation Metrics)
+### Analytics (Algorithm Evaluation Metrics)
 
-#### Modeling & Evaluation
+#### Modeling dan Evaluation
     - Model Benchmarking : Test Data
     - Test Oversampling with K-Fold Cross Validation
     - Evaluation Metrics Without Oversampling
