@@ -178,20 +178,20 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 ### Analytics (Algorithm Evaluation Metrics)
 
 #### Modeling dan Evaluation
-- Model Benchmarking : Test Data
+- Model Benchmarking : Test Data <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Model%20Benchmarking%20%20Test%20Data.PNG?raw=true)
-- Test Oversampling with K-Fold Cross Validation
-- Evaluation Metrics Without Oversampling
+- Test Oversampling with K-Fold Cross Validation <br>
+- Evaluation Metrics Without Oversampling <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Evaluation%20Metrics%20Without%20Oversampling.PNG?raw=true)
-- Evaluation Metrics With Oversampling
+- Evaluation Metrics With Oversampling <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Evaluation%20Metrics%20With%20Oversampling.PNG?raw=true)
-- Hyperparameter Tuning
+- Hyperparameter Tuning <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Hyperparameter%20Tuning.PNG?raw=true)
-- Metric Confusion
+- Metric Confusion <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Metric%20Confusion.png?raw=true) 
-- Feature Importances
+- Feature Importances <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Feature%20Importances.png?raw=true)
-- Shapley Value of Explanations (SHAP)
+- Shapley Value of Explanations (SHAP) <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/SHAP.png?raw=true)
 
 ### Conclusion and Recommendation
@@ -225,5 +225,5 @@ Hal-hal yang dapat dilakukan untuk mengembangkan model agar lebih baik lagi, sep
 - Lakukan Prediksi 
    ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Lakukan%20Prediksi.PNG?raw=true)
    
-- Lakukan Prediksi probabilitas
+- Lakukan Prediksi probabilitas <br>
    ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Lakukan%20Prediksi%20probabilitas.png?raw=true)
