@@ -31,7 +31,7 @@ Jadi yang akan kita lakukan adalah menganalisi data untuk menemukan pola yang me
 
 Kemudian kita akan membangun model klasifikasi yang akan membantu perusahaan untuk dapat memprediksi probabilitas seorang pelanggan di E-Commerce akan churn atau tidak
 
-Metric Evaluation :
+Metric Evaluation : <br>
 ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Metric%20Evaluation.png?raw=true)
 
 Type 1 error : False Negatif
