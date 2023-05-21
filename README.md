@@ -146,36 +146,53 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
 - Kumpulan data milik perusahaan E-niaga online terkemuka. Perusahaan ritel online (E-commerce) ingin mengetahui pelanggan yang akan melakukan churn, sehingga mereka dapat mendekati pelanggan untuk menawarkan beberapa promo.
 
 #### Data
-
+![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Data.PNG?raw=true)
 #### Data Cleaning
 
 - Ada data yang hilang/kosong dibeberapa fitur/kolom. Oleh sebab itu, kita akan memperbaiki semua datanya dan membuatnya menjadi siap pakai untuk melakukan analisa terhadap masalahnya dan juga pembuatan model machine learningnya.
     - Duplicated Data 
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Data_Duplicat.PNG?raw=true)
     - Statistik Missing Values
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Statistik_Missing_Value.PNG?raw=true)
     - Handling Missing Values
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Handling_Missing_Values.PNG?raw=true)
 
 ### Data Analysis
 
 - Penilaian Normalitas
-    - Grapical Methods
+   - Grapical Methods
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Penlian_Normalitas.png?raw=true)
 - Checking Outlier
+   ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Checking_OutLier.png?raw=true)
 - Imbalance Classification
+   ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Imbalance_Classification.png?raw=true)
 ### Feature selection dan Feature Engineering
 
 #### Data Preparation
+   ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Data_Prepration.PNG?raw=true)
+
     - Mengecek Missing Value pada Data
     - Handling Missing Value Menggunakan KNNImputer
     - Data splitting
+      
 ### Analytics (Algorithm Evaluation Metrics)
 
 #### Modeling dan Evaluation
-    - Model Benchmarking : Test Data
-    - Test Oversampling with K-Fold Cross Validation
-    - Evaluation Metrics Without Oversampling
-    - Evaluation Metrics With Oversampling
-    - Hyperparameter Tuning
-    - Feature Importances
-    - Shapley Value of Explanations (SHAP)
+- Model Benchmarking : Test Data
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Model%20Benchmarking%20%20Test%20Data.PNG?raw=true)
+- Test Oversampling with K-Fold Cross Validation
+- Evaluation Metrics Without Oversampling
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Evaluation%20Metrics%20Without%20Oversampling.PNG?raw=true)
+- Evaluation Metrics With Oversampling
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Evaluation%20Metrics%20With%20Oversampling.PNG?raw=true)
+- Hyperparameter Tuning
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Hyperparameter%20Tuning.PNG?raw=true)
+- Metric Confusion
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Metric%20Confusion.png?raw=true) 
+- Feature Importances
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Feature%20Importances.png?raw=true)
+- Shapley Value of Explanations (SHAP)
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/SHAP.png?raw=true)
 
 ### Conclusion and Recommendation
 
@@ -200,3 +217,12 @@ Hal-hal yang dapat dilakukan untuk mengembangkan model agar lebih baik lagi, sep
 - Mencoba teknik sederhana dalam oversampling seperti class_weight pada algorithma yang support Imbalance Classification.
 
 ### Pickle
+
+- Import piockle 
+- Load Model
+- Buat data uji coba
+   ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Buat%20data%20uji%20coba.PNG?raw=true)
+- Lakukan Prediksi 
+   ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Lakukan%20Prediksi.PNG?raw=true)
+- Lakukan Prediksi probabilitas
+   ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Lakukan%20Prediksi%20probabilitas.png?raw=true)
