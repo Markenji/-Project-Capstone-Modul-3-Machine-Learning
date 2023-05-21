@@ -124,8 +124,7 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
   </tr>
 </table>
 
-<p>Sumber Data : <a href="https://drive.google.com/drive/folders/1PITb78NtK9Ra6wOkQdXCIgItZkj29Ves">Klik disini</a></p>
-<p>Data Awal Terdiri dari : 3941 baris × 11 kolom</p>
+<p>Sumber Data (Data Awal Terdiri dari : 3941 baris × 11 kolom) : <a href="https://drive.google.com/drive/folders/1PITb78NtK9Ra6wOkQdXCIgItZkj29Ves">Klik disini</a></p>
 
 ## Daftar Isi Main Project ipynb
  - [Data Understanding & Data Cleaning](#Data-Understanding-dan-Data-Cleaning)
