@@ -224,5 +224,6 @@ Hal-hal yang dapat dilakukan untuk mengembangkan model agar lebih baik lagi, sep
    ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Buat%20data%20uji%20coba.PNG?raw=true)
 - Lakukan Prediksi 
    ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Lakukan%20Prediksi.PNG?raw=true)
+   
 - Lakukan Prediksi probabilitas
    ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Lakukan%20Prediksi%20probabilitas.png?raw=true)
