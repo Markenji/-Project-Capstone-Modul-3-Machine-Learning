@@ -1,4 +1,4 @@
-![alt text](https://github.com/Markenji/Project-Capstone-Modul-2-Data-Analyst/blob/main/Tableau/capstone%202.jpg?raw=true)
+![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/machine_learning.jpg?raw=true)
 
 # Customer Analytics: Ecommerce Customer Churn
 #####
