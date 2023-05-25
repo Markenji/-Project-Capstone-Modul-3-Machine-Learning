@@ -186,8 +186,13 @@ Berdasarkan konsekuensinya, maka sebisa mungkin yang akan kita lakukan adalah me
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Evaluation%20Metrics%20With%20Oversampling.PNG?raw=true)
 - Hyperparameter Tuning <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Hyperparameter%20Tuning.PNG?raw=true)
+- Classification_Report <br>
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Classification_Report.PNG?raw=true)
 - Metric Confusion <br>
-      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Metric%20Confusion.png?raw=true) 
+      - default <br>
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/default%20confusion%20matrix.png?raw=true) 
+      - tuned <br>
+      ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/tuned%20confusion%20matrix.png?raw=true) 
 - Feature Importances <br>
       ![alt text](https://github.com/Markenji/-Project-Capstone-Modul-3-Machine-Learning/blob/main/Picture/Feature%20Importances.png?raw=true)
 - Shapley Value of Explanations (SHAP) <br>
